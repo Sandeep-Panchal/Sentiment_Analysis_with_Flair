@@ -1,7 +1,7 @@
 ## Sentiment Analysis with Flair
 
 Dataset can be obtained from Analytics Vidya competition -
-[Identify The Sentiment]('https://datahack.analyticsvidhya.com/contest/linguipedia-codefest-natural-language-processing-1/#ProblemStatement')
+[Identify The Sentiment]('https://datahack.analyticsvidhya.com/contest/linguipedia-codefest-natural-language-processing-1/')
 
 __*IPYNB Files:*__
   - sample_sentiment_analysis_with_flair - contains the sample code on a sample text input.
