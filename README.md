@@ -4,7 +4,7 @@ Dataset can be obtained from Analytics Vidya competition - [Identify The Sentime
 
 __*IPYNB Files:*__
   - [sample_sentiment_analysis_with_flair](https://github.com/Sandeep-Panchal/Sentiment_Analysis_with_Flair/blob/main/sample_sentiment_analysis_with_flair.ipynb) - contains the sample code on a sample text input.
-  - [sentiment_analysis_with_flair]() - contains the code worked on the above train data set.
+  - [sentiment_analysis_with_flair](https://github.com/Sandeep-Panchal/Sentiment_Analysis_with_Flair/blob/main/sentiment_analysis_with_flair.ipynb) - contains the code worked on the above train data set.
 
 __*Reference:*__
   - Udemy tutorial: [Natural Language Processing: NLP With Transformers in Python](https://www.udemy.com/course/nlp-with-transformers/)
